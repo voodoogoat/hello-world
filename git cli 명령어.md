@@ -14,4 +14,5 @@ git config --global user.email 메일주소
 `윈도우 git config --global core-autocrlf True`  
 `리눅스 git config --global core-autocrlf input`  
 
-16:43   Basic "깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)"
+`.gitignore` 파일 -> 커밋에서 제외하는 파일을 기록  
+
