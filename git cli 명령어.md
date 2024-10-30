@@ -1,5 +1,7 @@
+```
 git config --global user.name "이름"  
 git config --global user.email 메일주소  
+```
 
 설정 확인  
 `git config --list`
@@ -15,4 +17,4 @@ git config --global user.email 메일주소
 `리눅스 git config --global core-autocrlf input`  
 
 `.gitignore` 파일 -> 커밋에서 제외하는 파일을 기록  
-
+    ex) `echo *.log > .gitignore`
